@@ -6,7 +6,7 @@
 
 ## I. Create an free Azure Subscription
     
-You can use your own Azure Subscription, or use below link to apply an Azure China trial subscription.    
+You can use your own Azure Subscription, or use below link to apply an Azure trial subscription.    
 https://azure.microsoft.com/en-us/free/
 
 
